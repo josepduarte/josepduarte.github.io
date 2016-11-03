@@ -33,3 +33,9 @@ email: josepduarte66@gmail.com
 facebook_username: zpedro6
 gplus_username:  100113997000058098899
 github_username: josepduarte
+
+projects:
+  - name: Snakinator
+    url: https://github.com/josepduarte/SnakInator
+  - name: GLUA repos
+    url: https://github.com/GLUA-UA
