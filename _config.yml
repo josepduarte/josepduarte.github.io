@@ -15,9 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Where the hell are you?
 description: > # this means to ignore newlines until "baseurl:"
-  Just me deep in here.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/space-jekyll-template" # the subpath of your site, e.g. /blog
+url: http://josepduarte.github.io" # the base hostname & protocol for your site
 
 #facebook: zpedro6
 
@@ -39,3 +38,9 @@ projects:
     url: https://github.com/josepduarte/SnakInator
   - name: GLUA repos
     url: https://github.com/GLUA-UA
+
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
