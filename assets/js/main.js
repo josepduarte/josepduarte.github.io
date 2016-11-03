@@ -1147,6 +1147,8 @@
 	                    break;
 	                case "KeyF":
 	                    t("#sidebar ul:nth-child(2) li:nth-child(3) a").trigger("click")
+                    case "KeyH":
+	                    t("#sidebar ul:nth-child(2) li:nth-child(4) a").trigger("click")
 	            }
 	            if (t(".search-form").hasClass("active")) switch (e.code) {
 	                case "Escape":
