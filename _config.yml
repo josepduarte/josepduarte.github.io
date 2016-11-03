@@ -39,8 +39,3 @@ projects:
   - name: GLUA repos
     url: https://github.com/GLUA-UA
 
-links:
-  - title: home
-    url: /
-  - title: my posts
-    url: /posts
