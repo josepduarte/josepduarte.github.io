@@ -1,0 +1,15 @@
+- title: wGo Manager
+  url: http://xcoa.av.it.pt/~pei2016-2017_g5
+  image: https://josepduarte.github.io/images/projects/wgo.jpg
+  completed: true
+
+- title: Snakinator
+  url: https://github.com/josepduarte/SnakInator
+  image: https://josepduarte.github.io/images/projects/snake.jpg
+  completed: true
+
+- title: GLUA
+  url: http://glua.ua.pt/
+  image: https://josepduarte.github.io/images/projects/glua.png
+  completed: true
+
