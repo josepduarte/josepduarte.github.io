@@ -2,6 +2,7 @@
 layout: post
 title:  "Farewell Chester"
 date:   2017-07-24 11:23:14 +0000
+image: http://josepduarte.github.io/images/chester.jpg
 ---
 
 The world is all talking about Chester's departure and I'm nothing more than just another person doing the same but...well...I do.
