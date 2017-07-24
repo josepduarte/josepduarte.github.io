@@ -48,12 +48,10 @@
   {% if page.image %}
   {% capture image %}{{ page.image }}{% endcapture %}
   {% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
-  <meta property="og:image" content="{{ page.image }}">
   <style type="text/css">
     #posts.inner-post-page .block-left {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ image }}) no-repeat;background-size: cover;}
   </style>
   {% else %}
-  <meta property="og:image" content="{{ site.url }}/images/{{ site.logo }}">
   <style type="text/css">
     #posts.inner-post-page .block-left {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ site.url }}/{{ site.background.default-post }}) no-repeat;background-size: cover;}
   </style>
