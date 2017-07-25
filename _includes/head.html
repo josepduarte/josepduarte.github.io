@@ -45,7 +45,6 @@
   <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
   <!-- Left Block Image for Posts -->
   {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}/images/chester-preview.jpg">
   {% capture image %}{{ page.image }}{% endcapture %}
   {% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
   <style type="text/css">
