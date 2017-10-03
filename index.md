@@ -3,7 +3,7 @@ layout: home
 ---
 # About That Guy Over There
 
-Just a humble Computer and Telematics Engineering student at University of Aveiro.
+Just a "humble" (quoting myself must say) Computer and Telematics Engineering student at University of Aveiro.
 
 Ready to be challenged and learn new things.
 
