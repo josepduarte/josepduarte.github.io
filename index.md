@@ -9,9 +9,9 @@ Aiming to finding solutions for every daily problem making use of the of the lat
 
 Always ready to be challenged and learn new things.
 
-Going smoothly into personal tastes, that guy over there: 
--- loves to discover new music; 
--- would easily accept to be the Assistant to the Regional Manager (if that Regional Manager is Michael Scott, obviously); 
+Going smoothly into personal tastes, that guy over there: </br>
+-- loves to discover new music; </br>
+-- would easily accept to be the Assistant to the Regional Manager (if that Regional Manager is Michael Scott, obviously); </br>
 -- is dangerously addicted to sushi.
 
 “Good morning, and in case I don’t see ya, good afternoon, good evening, and good night!”
